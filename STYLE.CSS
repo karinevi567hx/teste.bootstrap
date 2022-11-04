@@ -1,0 +1,7 @@
+.teste{
+ background-image: linear-gradient(left to right blue,purple);
+}
+.container_fluid{
+ display:flex;
+ align-content: space-between;
+}
